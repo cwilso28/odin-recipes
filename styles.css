@@ -1,0 +1,33 @@
+
+
+ul li {
+  font-size:22px;
+  background-color: teal;
+  width:400px;
+}
+
+h1 {
+  font-size: 40px;
+  text-align:center;
+}
+
+h2 {
+  font-size: 30px;
+  margin-bottom: -10px;
+}
+
+ol {
+  font-family:"Monospace";
+  color:green;
+  background-color:lightblue;
+  border:4px solid black;
+  padding: 12px 30px;
+}
+
+.desc {
+  max-width:600px;
+  background-color:pink;
+  border: 4px solid black;
+  padding: 12px;
+  margin:15px auto;
+}
